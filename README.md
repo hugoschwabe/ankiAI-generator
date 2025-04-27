@@ -94,4 +94,4 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 Hugo Schwabe - [LinkedIn](https://linkedin.com/in/hugo-schwabe-1a57a7360) - schwabehugo@gmail.com
 
-Project Link: [https://github.com/hugoschwabe/clean-energy-chile](https://github.com/hugoschwabe/clean-energy-chile)
+Project Link: [https://github.com/hugoschwabe/ankiAI-generator](https://github.com/hugoschwabe/ankiAI-generator)
