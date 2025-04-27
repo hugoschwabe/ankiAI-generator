@@ -1,0 +1,5 @@
+keyfile.txt
+.DS_Store
+.ipynb_checkpoints
+venv
+run.sh
