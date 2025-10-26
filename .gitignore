@@ -3,3 +3,5 @@ keyfile.txt
 .ipynb_checkpoints
 venv
 run.sh
+old
+__pycache__
